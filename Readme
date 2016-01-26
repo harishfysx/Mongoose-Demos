@@ -1,0 +1,4 @@
+1. For learning Mongoose with express js & ejs
+2. This version concentrates on CREATE & SAVE funcitonality
+3. For getting results simply go to home page
+4. For creating use postman tool to post/user.. hardcoded values will be saved to database provided
